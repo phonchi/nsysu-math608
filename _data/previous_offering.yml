@@ -1,6 +1,6 @@
-#offerings:
-  #- title: Fall 1997
-  #  url: https://previous_course_website.url/
+offerings:
+  - title: Spring 2022
+    url: https://phonchi.github.io/nsysu-math608-2022/
   
   #- title: Fall 1996
   #  url: https://previous_course_website.url/
