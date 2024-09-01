@@ -23,6 +23,8 @@ permalink: /materials/
 * [Basic skills](https://e2eml.school/blog.html)
 * [Made with ML](https://madewithml.com/)
 * [AtHomeWithAI](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+* [Awesome open data-centric AI](https://github.com/Renumics/awesome-open-data-centric-ai)
+* [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI)
 
 ### Environment
 * [Anaconda](https://www.anaconda.com/products/individual)
@@ -44,28 +46,29 @@ permalink: /materials/
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-
 ### Dataset search
 * [政府資料開放平台](https://data.gov.tw/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Google dataset search](https://datasetsearch.research.google.com/)
+* [Paperwithcode](https://paperswithcode.com/datasets)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 * [Amazon’s AWS datasets](https://registry.opendata.aws/)
 
+### Learning with AI
+* [Instructions](https://hackmd.io/@phonchi/LLM_Basic)
+* [ChatGPT](https://chatgpt.com/)
+* [Gemini](https://gemini.google.com/)
+* [Copilot](https://copilot.microsoft.com/)
+
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-* [Python tutorial from madewithml](https://madewithml.com/courses/foundations/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
 * [Python for everybody](https://www.py4e.com/)
-* [Python tutorial collections](https://e2eml.school/python_resources.html)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
-* [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
-* [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 ### Learning Python libraries
 * [Python scientific computing](https://scipy-lectures.org/)
 * [Data manipulation cheatsheet](https://www.mit.edu/~amidi/teaching/data-science-tools/)
-* [Pandas tutorial](https://leemeng.tw/practical-pandas-tutorial-for-aspiring-data-scientists.html)
 * [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Data Analysis](https://github.com/wesm/pydata-book)
@@ -75,8 +78,8 @@ permalink: /materials/
 * [CommonMark](https://commonmark.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/markdown/)
 * [Hackmd](https://hackmd.io/features-tw?both)
-* [mdeditor](https://www.mdeditor.tw/)
 
+  
 ## Libraries
 
 ### Data manipulation
@@ -86,6 +89,11 @@ permalink: /materials/
 ### Plotting
 * [Seaborn](https://seaborn.pydata.org/index.html)
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+
+### Data-centric 
+* [Cleanlab](https://github.com/cleanlab/cleanlab)
+* [Docta](https://github.com/Docta-ai/docta)
+* [Snorkel](https://github.com/snorkel-team/snorkel)
 
 ### Modeling
 * [Scikit-learn](https://scikit-learn.org/stable/)
