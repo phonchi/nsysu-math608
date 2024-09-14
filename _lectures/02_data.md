@@ -6,7 +6,7 @@ tldr:
 thumbnail: 
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/02_Dataset.pdf
+    - url: /static_files/presentations/02_Data.pdf
       name: Slides
       
 ---
