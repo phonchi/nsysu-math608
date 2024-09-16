@@ -16,3 +16,4 @@ links:
 - [Data-centric AI](https://github.com/HazyResearch/data-centric-ai)
 - [Snorkel](https://arxiv.org/abs/1711.10160)
 - [CROWDLAB](https://arxiv.org/abs/2210.06812)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86l8aVLHAB-Xcn6oS-u36I-&si=h5Ll4fJ3d8kIFyxz)
