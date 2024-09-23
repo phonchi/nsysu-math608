@@ -15,3 +15,4 @@ links:
 - HMST Chapter 1
 - [SQL cheatsheet](https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-retrieval-with-sql/)
 - [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87MmgeOo9xMxDViHMBppvyf&si=qgLW5LWOGTQZaJGU)
