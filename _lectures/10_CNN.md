@@ -11,7 +11,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [Lab](https://github.com/phonchi/nsysu-math608-2022/blob/master/static_files/presentations/09_Convolutional_NeuralNetworks_keras.ipynb)
+- [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/09_Convolutional_NeuralNetworks_keras.ipynb)
 - [CNN explainer](https://poloclub.github.io/cnn-explainer/)
 - [Image kernels](https://setosa.io/ev/image-kernels/)
 - HMST Chpater 14
