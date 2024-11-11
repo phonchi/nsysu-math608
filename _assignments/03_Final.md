@@ -9,7 +9,7 @@ due_event:
     description: 'Final Project due'
 description: 'Please hand in your code and report through cyber university. Notice that the due day for code and dataset is 12/15 and report is 12/29'
 ---
-- [[Notice]](/nsysu-math608/static_files/presentations/Final_notice.pdf)
-- [[Reference Notebook - Kaggle]](/nsysu-math608/static_files/presentations/final-sample-notebook.ipynb)
-- [[Reference Notebook - Colab]](/nsysu-math608/static_files/presentations/final-sample-notebook_colab.ipynb)
+- [[Notice]](/nsysu-math608/static_files/assignments/Final_notice.pdf)
+- [[Reference Notebook - Kaggle]](/nsysu-math608/static_files/assignments/final-sample-notebook.ipynb)
+- [[Reference Notebook - Colab]](/nsysu-math608/static_files/assignments/final-sample-notebook_colab.ipynb)
 
