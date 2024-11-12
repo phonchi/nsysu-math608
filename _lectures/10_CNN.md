@@ -15,3 +15,4 @@ links:
 - [CNN explainer](https://poloclub.github.io/cnn-explainer/)
 - [Image kernels](https://setosa.io/ev/image-kernels/)
 - HMST Chpater 14
+- [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-87nD_MCVauROFg_cNLa8C82)
