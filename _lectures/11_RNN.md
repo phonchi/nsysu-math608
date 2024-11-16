@@ -12,7 +12,7 @@ links:
 ---
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math608/blob/master/static_files/presentations/10_Recurrent_Neural_Networks.ipynb)
-- [TransformerViz](https://transformer.realcat.top/)
+- [Transformer Explainer](https://transformer.realcat.top/)
 - [AttentionViz](https://catherinesyeh.github.io/attn-docs/)
 - [BertViz](https://github.com/jessevig/bertviz)
 - HMST Chpater 15, 16
