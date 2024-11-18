@@ -16,3 +16,4 @@ links:
 - [AttentionViz](https://catherinesyeh.github.io/attn-docs/)
 - [BertViz](https://github.com/jessevig/bertviz)
 - HMST Chpater 15, 16
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84X8m9SO_qATilXfib2FBER&si=ZvTXIHrokDlwUC5i)
