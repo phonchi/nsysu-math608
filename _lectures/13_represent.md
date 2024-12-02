@@ -15,3 +15,4 @@ links:
 - HMST Chpater 17
 - [GAN Lab](https://poloclub.github.io/ganlab/)
 - [Difussion Explainer](https://poloclub.github.io/diffusion-explainer/)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86miU0ctURM5MjeDLDAEH0Z&si=pr5-vAjorXQ4bI0O)
